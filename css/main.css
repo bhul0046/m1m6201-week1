@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: white;
+    width: fit-content;
+    display: flex;
+}
+
+h1 {
+    color: black;
+    font-size: 60px;
+}
+
+.myself {
+    height: 400px;
+}
+
+.information {
+    background-color: coral;
+    color: azure;
+    width: fit-content;
+}
+
+footer {
+    background-color: wheat;
+    display: flex;
+    width: 100px;
+}
